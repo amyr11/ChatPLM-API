@@ -3,7 +3,14 @@ from fastapi import FastAPI
 from chatplm.helpers.load_data import load_data
 from chatplm.model import ChatPLM
 
-app = FastAPI()
+
+description = "API for ChatPLM - A simple neural network trained on PLM data for university-specific information queries."
+
+app = FastAPI(
+    title="ChatPLM API",
+    description=description,
+    version="0.0.1"
+)
 data = load_data()
 model = ChatPLM(data)
 
