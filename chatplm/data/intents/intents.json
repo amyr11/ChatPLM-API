@@ -1,0 +1,37 @@
+{
+    "intents": [
+        {
+            "tag": "who_are_you",
+            "response": "Hi, haribon! I am ChatPLM, a simple AI trained to answer your PLM-related questions. \n\nI am developed by a group of passionate Computer Science students from PLM and maintained by a lot of student volunteers.\n\nAsk me anything about PLM and I'll try my best to answer it!"
+        },
+        {
+            "tag": "courses_offered",
+            "response": "PLM offers a variety of undergraduate and graduate programs, including courses in Business Administration, Education, Engineering, Law, Medicine, Nursing, Social Sciences, and more."
+        },
+        {
+            "tag": "public_or_private",
+            "response": "PLM is a public university owned and operated by the City Government of Manila."
+        },
+        {
+            "tag": "admission_process",
+            "response": "To be admitted to PLM, you must meet the university's admission requirements, which include passing the PLMAT (Pamantasan ng Lungsod ng Maynila Admission Test) and submitting all necessary documents."
+        },
+        {
+            "tag": "tuition_fee",
+            "response": "The tuition fee at PLM varies depending on the program and the student's residency status (Manila residents receive a lower rate). For the academic year 2021-2022, the tuition fee for undergraduate programs ranged from around Php 12,000 to Php 35,000 per semester."
+        },
+        {
+            "tag": "history",
+            "response": "PLM was established in 1965 as a college under the administration of the City of Manila. It became a university in 2001 and is now considered one of the leading universities in the Philippines."
+        },
+        {
+            "tag": "location",
+            "response": "PLM's main campus is located in General Luna, corner Muralla St, Intramuros, Manila, 1002 Metro Manila."
+        },
+        {
+            "tag": "student_orgs",
+            "response": "I currently don't have a list of all student organizations in PLM as I still have no data about it. Kindly give a feedback to improve my knowledge base!"
+        }
+    ],
+    "date": "May 06, 2023 04:49 PM"
+}
