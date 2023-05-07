@@ -10,7 +10,7 @@ MODEL_FILE = os.path.join(CURRENT_DIRECTORY, "chat_model")
 TOKENIZER_FILE = os.path.join(CURRENT_DIRECTORY, "tokenizer.pickle")
 LABEL_ENCODER_FILE = os.path.join(CURRENT_DIRECTORY, "label_encoder.pickle")
 
-CONFIDENCE_THRESHOLD = 0.8
+CONFIDENCE_THRESHOLD = 0.7
 LOW_CONFIDENCE_RESPONSE = "Sorry, I'm still learning and only understand PLM-related topics. It's also possible that your question is not yet added to my training data or I misunderstood it. Try asking your question in a different way or submit a feedback instead."
 
 
