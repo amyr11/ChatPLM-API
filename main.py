@@ -22,4 +22,10 @@ def read_root():
 
 @app.get("/chat/{prompt}")
 def chat(prompt: str):
-    return {"output": model.response_from_model(prompt)[0]}
+    response, confidence = model.response_from_model(prompt)
+    return {"output": response, "confidence": float(confidence)}
+
+
+@app.get("/metadata")
+def metadata():
+    return {"trn_updated": data['date']}
