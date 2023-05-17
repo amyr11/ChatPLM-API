@@ -1,3 +1,4 @@
+import matplotlib.pyplot as plt
 import pickle
 import os
 import json
@@ -61,7 +62,7 @@ model.compile(loss='sparse_categorical_crossentropy',
 
 model.summary()
 
-epochs = 500
+epochs = 200
 history = model.fit(padded_sequences, np.array(training_labels), epochs=epochs)
 
 # to save the trained model
@@ -77,3 +78,24 @@ with open(os.path.join(CURRENT_DIRECTORY, 'label_encoder.pickle'), 'wb') as ecn_
     pickle.dump(lbl_encoder, ecn_file, protocol=pickle.HIGHEST_PROTOCOL)
 
 create_tag_response_json(data, INTENTS_PATH)
+
+
+# Accessing training loss
+training_loss = history.history['loss']
+
+# Accessing training accuracy
+training_accuracy = history.history['accuracy']
+
+# Plotting the training and validation loss
+plt.plot(training_loss, label='Training Loss')
+plt.xlabel('Epochs')
+plt.ylabel('Loss')
+plt.legend()
+plt.show()
+
+# Plotting the training and validation accuracy
+plt.plot(training_accuracy, label='Training Accuracy')
+plt.xlabel('Epochs')
+plt.ylabel('Accuracy')
+plt.legend()
+plt.show()
