@@ -1,6 +1,94 @@
 {
     "intents": [
         {
+            "tag": "what_osds",
+            "response": "The Office of Student Development and Services (OSDS) is the central student services agency, which administers and coordinates student services and represents student interests to various campus groups, the faculty, the staff, and the administration. It assumes administrative responsibility over all student organizations, student cocurricular, extra-curricular and cultural activities in the University, and facilitates and follows through student needs, growth, and development in the context of the students\u2019 social, cultural, intellectual and moral spheres. "
+        },
+        {
+            "tag": "dean_osds",
+            "response": "Prof. Lynette G. Cleto is the dean of the Office of Student Development and Services (OSDS). She is the interim head of the General Services Office as well."
+        },
+        {
+            "tag": "osds_contact",
+            "response": "For further inquiries please contact: osds@plm.edu.ph Trunkline: (+63 2) 8 643-2500. "
+        },
+        {
+            "tag": "what_icto",
+            "response": "Information & Communications Technology Office (ICTO, formerly Information Technology Center). The ICTO is a department or office responsible for managing and overseeing the information technology and communication systems within the university. In PLM, the ICTO is often in charge of a number of duties including network administration, software and hardware upkeep, user assistance, and the execution of IT rules and standards.\n"
+        },
+        {
+            "tag": "location_icto",
+            "response": "You can find the Information & Communications Technology Office (ICTO) inside the Pamantasan ng Lungsod ng Maynila (PLM) campus. The physical office of ICTO can be found in the Gusaling Villegas along its corridor on the ground floor near the far stairs at the end of the hallway. "
+        },
+        {
+            "tag": "purpose_icto",
+            "response": "It is in charge of maintaining the university's technological infrastructure, which includes computer networks, data management systems, software applications, and hardware devices. In addition, the ICTO offers technical assistance and training to professors, staff, and students on the use of technology in teaching, learning, research, and administration."
+        },
+        {
+            "tag": "what_caup",
+            "response": "The College of Architecture and Urban Planning or CAUP was established in June of 2001 to help transform the City of Manila back into a vibrant, world-class tourist destination. The architecture program continues to relish in its own place within the university. The College prides itself of reaping numerous honors and citations for PLM, both in local and national arena. These achievements are the result of a strong partnership built around team spirit unique in PLM."
+        },
+        {
+            "tag": "what_cbgm",
+            "response": "CBGM stands for College of Business and Government Management. The PLM Business School offers undergraduate and post-graduate programs that aim to make students able professionals and managers both in the private and public sector.\n\nThe college offers the following programs: Bachelor of Science in Accountancy (BSA), Bachelor of Science in Business Administration major in Financial Management (BSBA-FM), Bachelor of Science in Business Administration major in Marketing Management (BSBA-MM), Bachelor of Science in Business Administration major in Operations Management (BSBA-OM), Bachelor of Science in Business Administration major in Human Resource Management (BSBA-HRM), Bachelor of Science in Business Administration major in Business Economics (BSBA-BE), Bachelor of Science in Entrepreneurship (BS Entrep), Bachelor of Science in Real Estate Management (BS REM), Bachelor of Science in Hospitality Management (BSHM), Bachelor of Science in Tourism Management (BSTM), Master in Business Administration, and Doctor of Business Administration."
+        },
+        {
+            "tag": "what_ced",
+            "response": "The College of Education (CEd) was formed out of reorganization and merging of colleges that were approved by the Board of Regents on June 4, 2015. It aspires to be one of the country's centers of excellence in Teacher Education. It is committed to produce globally empowered quality graduates who are proactive and catalysts of social transformation. \n\nThe mission of the institution is to be recognized as an excellent pre-service teacher-training institution, achieve consistently high performance on the Licensure Examination for Teachers (LET), provide students with effective and relevant instruction for education locally and internationally, contribute to research efforts enhancing the quality of education in the country, and foster a culture of excellence, integrity, and responsibility."
+        },
+        {
+            "tag": "what_chass",
+            "response": "The College of Humanities, Arts, and Social Sciences (CHASS) was formed by merging the College of Liberal Arts (CLA) and the College of Mass Communication (CMC). This reorganization was recommended by the PLM University Council and approved by the Board of Regents on June 4, 2015. Additionally, the Bachelor of Science in Social Work from the College of Human Development (CHD) and the Master of Arts in Communication Management from the Graduate School of Arts, Science, and Education (GSASE) became part of CHASS. The merger followed the vertical articulation framework prescribed by the Commission on Higher Education's Education Reform Agenda."
+        },
+        {
+            "tag": "what_cn",
+            "response": "The College of Nursing (CN) program provides an intensive nursing practicum that will refine further the nursing competencies to ensure achievement of the Nursing program outcomes required of an entry level. The College of Nursing program aims to develop a professional nurse who is able to assume entry level positions in health facilities or community settings.\n\nIt also offers masters\u2019 of nursing program which prepares individuals for careers in health care setting through advanced education in specific areas of expertise and to expand their career options. Program\u2019s course content and practicum component will provide them with the knowledge and skills necessary to successfully perform the varied managerial role functions which today\u2019s organization requires of health care practitioners and will empower them to serve as influential leaders in the design and operation of 21st century health care delivery systems."
+        },
+        {
+            "tag": "what _cpt",
+            "response": "Established in1993, the College of Physical Therapy (CPT) is among the country's best learning institutions for Physical Therapy based on its licensure exam performance. \n\nThe college is proud of the quality of its faculty members who possess extensive clinical experience and educational background in their specialization. They bring insights from theory, practice, and research to help shape the careers of all our students."
+        },
+        {
+            "tag": "what_cs",
+            "response": "The College of Science (CS) is one of the esteemed colleges of the university which has produced board topnotchers, leaders in the national and international levels. \n\nIt used to be part of the College of Arts and Science, until the Board of Regents approved its proposed separation in 2002. By 2015, it offered the programs BS Psychology, MA Psychology, and MS in Mathematics Education. "
+        },
+        {
+            "tag": "what_cl",
+            "response": "The College of Law (CL) is among the the top 10 law schools based on the 2018 bar examination. It received a 51.61% passing rate in 2018 bar exams, which is higher than the 22.07% national passing rate. "
+        },
+        {
+            "tag": "what_cm",
+            "response": "PLM College of Medicine (CM) is a city government-funded medical school. Students who aspire to enroll in its Doctor of Medicine program have to pass the PLM Medical College Admission Test (MCAT). Currently, PLM is the only public medical school with a level II PAASCU Accreditation"
+        },
+        {
+            "tag": "what_gsl",
+            "response": "On July 7, 2004, the Graduate School of Law (GSL) was formally launched as the second graduate school of school of law in the Philippines.\n\nThe Graduate School of Law aims to (1) develop intellectual expertise in law and jurisprudence among lawyers; (2) assist in improving public service by stressing the lawyers' mission of upholding justice and truth; (3) elevating the standards of the legal profession; and (4) enhancing the administration of justice for the welfare of the Filipino people, especially the marginalized."
+        },
+        {
+            "tag": "list_student_affair_services",
+            "response": "The following are the list of the Student Affair and Services in PLM:\n\n1. Office of Student Development And Service \n2. Scholarship Opportunities \n3. University Registrar \n4. University Library \n5. Office of the Guidance and Testing Services (OGTS)\n6. University Security Office (USO) \n7. University Health Services (UHS) \n8. Other Student Welfare \n9. Student Development and Institutional Student Programs And Services"
+        },
+        {
+            "tag": "what_is_mission",
+            "response": "The PLM Board of Regents, Management, faculty, and staff are \ncommitted:\n\n1. To be recognized by the Philippines and ASEAN academic \naccrediting agencies as a premier university for its quality \neducation, research, and extension services;\n2. To ensure that PLM maintains a higher than the national\naverage performance in all professional licensure examinations \ntaken by its graduates; and\n3. To continue to provide the students with an education that \nwill give them a competitive advantage for employment \nopportunities."
+        },
+        {
+            "tag": "what_is_vision",
+            "response": "The vision of PLM is:\n\nGuided by the values of academic excellence, integrity and \nsocial responsibility, PLM is committed to pursue the principles \nof \u201cKarunungan, Kaunlaran, Kadakilaan.\u201d\n"
+        },
+        {
+            "tag": "contacts",
+            "response": "Here are the contacts that you may need to have a conversation with PLM:\n\n1. Office of the President - plm_op@plm.edu.ph (02) 8568 7027\n2. Office of the University Registrar - registrar@plm.edu.ph 0916 341 0311\n3. Admissions Office - admission_office@plm.edu.ph 0916 341 0332\n4. Information and Communications Technology Office - ithelp@plm.edu.ph\n5. Office of Students and Development Services - osds@plm.edu.ph\n6. University Health Services - uhs@plm.edu.ph\n"
+        },
+        {
+            "tag": "president_of_plm",
+            "response": "The current president of Pamantasan ng Lungsod ng Maynila is,\nEmmanuel A. Leyco, MPA is the former officer-in-charge of the \nDepartment of Social Welfare and Development (DSWD). \nHe was also the former DSWD Undersecretary for Finance \nand Administration.\n\nAside from serving under the national government's Social \nWelfare agency, former Usec. Leyco also worked as a \nProfessor at the Asian Institute of Management. He has a \nMaster's in Public Administration at Harvard Kennedy School of \nGovernment, a Master of Arts in Organizational Psychology \nat Columbia University, and a Bachelor of Arts in Behavioral \nSciences at De La Salle University."
+        },
+        {
+            "tag": "hymn_plm",
+            "response": "This is the official hymn of the Pamantasan ng Lungsod ng Maynila:\n\nPamantasan, Pamantasang Mahal\nNagpupugay kami't nag-aalay\nNg Pag-ibig, taos na paggalang\nSa patnubay ng aming isipan.\n\nKarunungang tungo'y kaunlaran\nHinuhubog kaming kabataan\nMaging Pilipinong mero'ng dangal\nPuso'y tigib ng kadakilaan.\n\nPamantasang Lungsod ng Maynila\nKaming lahat dito'y iyong punla\nTutuparin pangarap mo't nasa\nPamantasan kami'y nanunumpa.\nPamantasan kami'y nanunumpa."
+        },
+        {
             "tag": "who_are_you",
             "response": "Hi, haribon! I am ChatPLM, a simple AI trained to answer your PLM-related questions. \n\nI am developed by a group of passionate Computer Science students from PLM and maintained by a lot of student volunteers.\n\nAsk me anything about PLM and I'll try my best to answer it!"
         },
@@ -33,5 +121,5 @@
             "response": "I currently don't have a list of all student organizations in PLM as I still have no data about it. Kindly give a feedback to improve my knowledge base!"
         }
     ],
-    "date": "May 06, 2023 04:49 PM"
+    "date": "May 17, 2023 03:34 PM"
 }
