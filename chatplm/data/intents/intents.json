@@ -1,6 +1,242 @@
 {
     "intents": [
         {
+            "tag": "cet_dean",
+            "response": "Juan C. Tallara Jr. is the assigned dean for the the College of the Engineering and Technology."
+        },
+        {
+            "tag": "cet_undergraduate_programs",
+            "response": "The College of Engineering and Technology offers a total of 10 undergraduate programs: \na. Bachelor of Science in Chemical Engineering (BS ChE)\nb. Bachelor of Science in Computer Engineering (BS CpE)\nc. Bachelor of Science in Computer Studies major in\ni. Computer Science (BSCS-CS)\nii. Information Technology (BSCS-IT)\nd. Bachelor of Science in Civil Engineering (BSCE)\ne. Bachelor of Science in Electrical Engineering (BSEE)\nf. Bachelor of Science in Electronics Engineering (BSEcE)\ng. Bachelor of Science in Manufacturing Engineering (BS MfgE)\nh. Bachelor of Science in Mechanical Engineering (BS ME)"
+        },
+        {
+            "tag": "cet_vision",
+            "response": "The vision of the College of Engineering will be the premier college in technological education, research and extension services."
+        },
+        {
+            "tag": "cet_mission",
+            "response": "The mission of the College of Engineering is guided by this vision, we commit ourselves to:\n\n1. Uphold excellence through curriculum development and teaching, significant advances in knowledge, and services to the community of which we are a part;\n2. Nurture students with a technological education of the highest quality that will enable them to be professionally competent, community directed and God centered individuals; and\n3. Develop faculty members and staff to be excellent examples in leadership and management."
+        },
+        {
+            "tag": "cet_history",
+            "response": "The College of Engineering  of the Pamantasan ng Lungsod ng Maynila was established on July 1, 1969 - six years after the late Mayor Antonio F. Villegas founded the university. Today, the College of Engineering stands committed to upholding the legacy conceived by Mayor Villegas and the late Mayor Arsenio H. Lacson by providing its present batch of Engineering students with quality education which is responsive to the needs of the time. Originally under the College of Arts and Letters, the main trust of the college was to provide technical, industrial, vocational education to PLM students alongside the humanistic courses to prepare them for promoting out technology under two divisions, namely - the Division of Engineering and Technology which covered the Department of Civil, Mechanical, Electrical, Sanitary, Chemical, Naval and Industrial Engineering and the Division of Technical and Vocational Education which covered the Department of Electronics, Wood Working, Metal Works, Automotive Works, Ceramics, Graphics Arts and Teacher Education in Arts and Trades."
+        },
+        {
+            "tag": "cet_what",
+            "response": "The College of Engineering and Technology, commonly abbreviated as CET, provides quality education and offers technical skills in the fields of engineering and technology."
+        },
+        {
+            "tag": "cet_sc",
+            "response": "The PLM College of Engineering and Technology Student Council is one of the duly constituted student councils in the university. CET-SC aims to strengthen the camaraderie among the students within the college by providing innovative, progressive, and sustainable projects that will surely be enjoyable and will surely leave a trademark."
+        },
+        {
+            "tag": "bsche_org",
+            "response": "The PLM Chemical Engineering Students' Society, short for CHESS, is the organization under the Chemical Engineering Department."
+        },
+        {
+            "tag": "bsche_chairperson",
+            "response": "Engr. Peniel Jean A. Gildo is the chaiperson and adviser of the Chemical Engineering Department."
+        },
+        {
+            "tag": "bsche_shifting_req",
+            "response": "The qualifications needed for interested applicants must be a 2nd year student with a GWA better than 2.25 with no failing grade in any subject and a grade higher than 2.00 in the subjects Chemistry, Physics, and Mathematics. \nFollowing requirements: \n- Letter of Intent (LOI)\n- Shifting Form\n- Proposed Study Plan\n- Certification of Grade (COG) \n- Printed CRS-generated grades\n- Photocopy of the ID."
+        },
+        {
+            "tag": "bsche_quali_acad_achiever",
+            "response": "Students must have atleast 1.75 GWA to qualify in the semestral academic achievers."
+        },
+        {
+            "tag": "bsce_org",
+            "response": "The PLM Association of Civil Engineering Students or ACES, is the organization for students in the Civil Engineering Department."
+        },
+        {
+            "tag": "bsce_chairperson",
+            "response": "The chairperson of the Civil Engineering Department is Engr. Miller DL. Cutora."
+        },
+        {
+            "tag": "bsce_shifting_req",
+            "response": "The PLM CE Department shifting qualifications include a GWA of at least 2.5 or better and passing the examination.\nFor the requirements: \n- Letter of Intent (LOI)\n- Endorsement Letter\n- Certification of Grade (COG)\n- Proposed Study Plan\n- Curriculum Checklist\n- Student Registration Form (SER)"
+        },
+        {
+            "tag": "bsce_quali_acad_achiever",
+            "response": "Students must have atleast 1.75 GWA to qualify in the semestral academic achievers."
+        },
+        {
+            "tag": "bscpe_org",
+            "response": "The Computer Engineering Department has an organization known as the Institute of Computer Engineers of the Philippines (ICPEP)."
+        },
+        {
+            "tag": "bscpe_chairperson",
+            "response": "The chairperson from the Computer Engineering Department is Engr. Perferinda P. Caubang."
+        },
+        {
+            "tag": "bscpe_quali_acad_achiever",
+            "response": "Students must have atleast 1.75 GWA to qualify in the semestral academic achievers."
+        },
+        {
+            "tag": "bscs_org",
+            "response": "The PLM Computer Science Society (CSS) is the organization for students in the Computer Science Department."
+        },
+        {
+            "tag": "bscs_chairperson",
+            "response": "Dr. Dan Michael Cortez is the chairperson from the Computer Science Department"
+        },
+        {
+            "tag": "bscs_shifting_req",
+            "response": "The requirements for shifting are as follows: \n1. Good grades in Mathematics.\n2. No failing grades.\n3. Scanned copy of ID of student. \n4. Letter of Intent (LOI) \n5. Scanned copy of ID of parents/guardian.\n6. Summary of Grades from 1st year up to the latest semester, signed by your chairperson. "
+        },
+        {
+            "tag": "bscs_quali_acad_achiever",
+            "response": "Students must have atleast 1.75 GWA to qualify in the semestral academic achievers."
+        },
+        {
+            "tag": "bsee_org",
+            "response": "The Junior Institute of Electrical Engineers, also known as JIEE, is the organization behind the Electrical Engineering Department"
+        },
+        {
+            "tag": "bsee_chairperson",
+            "response": "The current Chairperson of the Electrical Engineering Department, Engr. Andrew G. Bitancor."
+        },
+        {
+            "tag": "bsee_shifting_req",
+            "response": "The qualifications for interested shifters must fill out the form provided to upload their documents such as:\n- Shifting Form\n- Letter of Intent (LOI)\n- CRS Grades\n- Study Plan"
+        },
+        {
+            "tag": "bsee_quali_acad_achiever",
+            "response": "Students must have atleast 1.75 GWA to qualify in the semestral academic achievers."
+        },
+        {
+            "tag": "bsece_org",
+            "response": "The PLM Electronics Engineering Students' Society or ECESS is the departamental organization."
+        },
+        {
+            "tag": "bsece_chairperson",
+            "response": "The newly appointed chaiperson for the Electrical Engineering Department is Engr. Eufemia A. Garcia."
+        },
+        {
+            "tag": "bsece_shifting_req",
+            "response": "The application for shifters must have a GWA of at least 2.25 higher to qualify.\nRequirements are as follows:\n- Shifting Form\n- Student's Registration Form (SER)\n- Letter of Intent (LOI)\n- Certified true copy of CRS Grades"
+        },
+        {
+            "tag": "bsece_quali_acad_achiever",
+            "response": "Students must have atleast 1.75 GWA to qualify in the semestral academic achievers."
+        },
+        {
+            "tag": "bsit_org",
+            "response": "The organization for the Information Technology Department is the Society of Information Technology Enthusiats (SITE)."
+        },
+        {
+            "tag": "bsit_chairperson",
+            "response": "Prof. Criselle J. Centeno is the chairperson in the IT Department."
+        },
+        {
+            "tag": "bsit_quali_acad_achiever",
+            "response": "Students must have atleast 1.75 GWA to qualify in the semestral academic achievers."
+        },
+        {
+            "tag": "bsmfge_org",
+            "response": "The Society of Manufacturing Engineers, SME, is the departamental organization for the Manufacturing Engineering Department."
+        },
+        {
+            "tag": "bsmfge_chairperson",
+            "response": "The chairperson in the Manufacturing Department is Engr. Samantha M. Mendoza."
+        },
+        {
+            "tag": "bsmfge_quali_acad_achiever",
+            "response": "Students must have atleast 1.75 GWA to qualify in the semestral academic achievers."
+        },
+        {
+            "tag": "bsme_org",
+            "response": "The PLM Student Branch of the American Society of Heating, Refrigerating, and Air conditioning Engineers, short for ASHRAE, is the organization for the Department of Mechanical Engineering."
+        },
+        {
+            "tag": "bsme_chairperson",
+            "response": "Engr. Juan C. Tallara is the chairperson under the Mechanical Engineering Department"
+        },
+        {
+            "tag": "bsme_quali_acad_achiever",
+            "response": "Students must have atleast 1.75 GWA to qualify in the semestral academic achievers."
+        },
+        {
+            "tag": "list_student_affair_services",
+            "response": "The following are the list of the Student Affair and Services in PLM:\n\n1. Office of Student Development And Service \n2. Scholarship Opportunities \n3. University Registrar \n4. University Library \n5. Office of the Guidance and Testing Services (OGTS)\n6. University Security Office (USO) \n7. University Health Services (UHS) \n8. Other Student Welfare \n9. Student Development and Institutional Student Programs And Services"
+        },
+        {
+            "tag": "what_is_mission",
+            "response": "The PLM Board of Regents, Management, faculty, and staff are \ncommitted:\n\n1. To be recognized by the Philippines and ASEAN academic \naccrediting agencies as a premier university for its quality \neducation, research, and extension services;\n2. To ensure that PLM maintains a higher than the national\naverage performance in all professional licensure examinations \ntaken by its graduates; and\n3. To continue to provide the students with an education that \nwill give them a competitive advantage for employment \nopportunities."
+        },
+        {
+            "tag": "what_is_vision",
+            "response": "The vision of PLM is:\n\nGuided by the values of academic excellence, integrity and \nsocial responsibility, PLM is committed to pursue the principles \nof \u201cKarunungan, Kaunlaran, Kadakilaan.\u201d\n"
+        },
+        {
+            "tag": "school_uniform",
+            "response": "Proper Uniform for Undergraduate Female Students\n1. Blouse\n- Plain white\n- Baby collar\n- With 5 pin tucks (each side)\n- Secret button hole\n- Tuck-out with paja\n- No tucks at the back\n2. Neck tie\n- 1 yard in length by 1 inch width\n- No decorative accessories, University pin may be used\n- Same fabric and color with the skirt\n3. Skirt\n- Knee-length, pencil cut\n- Blue-gray in color\n- Box-pleated at the back\n4. Shoes\n- Plain black\n- Closed (toe and heels)\nProper Uniform for Undergraduate Male Students\n1. Pants\n- Charcoal-gray slacks\n- Straight-cut\n2. Polo\n- Plain white\n- Untucked\n- Sports-collar\n- White buttons, until solar plexus\n- Half polo barong\n- Side slit\n- No shearing, no tucks (front or back)\n- Straight-cut\n- No pocket\n3. Shoes\n- Plain black\n- Closed\n4. Plain black socks\n5. Plain white undershirt"
+        },
+        {
+            "tag": "improper_dress\n_code",
+            "response": "For Males and Females the improper school atiire are:\n\u2022 Sleeveless T-shirts\n\u2022 Ripped/Torn Jeans\n\u2022 Leggings\n\u2022 Overtight cuts\n\u2022 Skinny Jeans\n\u2022 Bull caps and earrings (male) \nFor Females\n\u2022 Plunging neckline (blouse/dress)\n\u2022 Sleeveless tops with large and loose armholes\n\u2022 Cleavage-baring tops\n\u2022 See-through tops where the undergarment can be seen\n\u2022 Mini skirt (more than 3 inches from the kneecap)\n\u2022 Backless blouses/dresses\n\u2022 Spaghetti-strapped blouses/dresses\n\u2022 Tube-type tops blouses/dresses\n\u2022 Halter and tank tops blouses/dresses\n\u2022 Backless Blouses/shirts/dresses\nStudents are not allowed to sport tattoos."
+        },
+        {
+            "tag": "trippings_sap",
+            "response": "Wala pa nga eh. Ang sakit talaga maghintay sa wala \ud83e\udd7a\ud83d\ude2d\ud83d\udca7 EE UUU U \ud83d\ude2d\ud83e\udd7a\ud83d\udca7Eu\ud83d\udca7\ud83d\udca7E E\ud83d\ude2d\ud83d\ude2d E EUE\ud83e\udd7a\ud83e\udd7a\ud83d\ude2dUUUUE\ud83d\ude2d\ud83e\udd7a\ud83d\udca7\ud83e\udd7a\ud83d\ude2d\n"
+        },
+        {
+            "tag": "trippings_plm",
+            "response": "Mahigit kumulang 'di mabilang \ud83d\ude09\ud83d\ude09\ud83d\ude09"
+        },
+        {
+            "tag": "trippings_two",
+            "response": "Hindi, huwag ka na umasa :("
+        },
+        {
+            "tag": "trippings_mangga",
+            "response": "pwede pero depende"
+        },
+        {
+            "tag": "who_are_you",
+            "response": "Hi, haribon! I am ChatPLM, a simple AI trained to answer your PLM-related questions. \n\nI am developed by a group of passionate Computer Science students from PLM and maintained by a lot of student volunteers.\n\nAsk me anything about PLM and I'll try my best to answer it!"
+        },
+        {
+            "tag": "contacts",
+            "response": "Here are the contacts that you may need to have a conversation with PLM:\n\n1. Office of the President - plm_op@plm.edu.ph (02) 8568 7027\n2. Office of the University Registrar - registrar@plm.edu.ph 0916 341 0311\n3. Admissions Office - admission_office@plm.edu.ph 0916 341 0332\n4. Information and Communications Technology Office - ithelp@plm.edu.ph\n5. Office of Students and Development Services - osds@plm.edu.ph\n6. University Health Services - uhs@plm.edu.ph\n"
+        },
+        {
+            "tag": "president_of_plm",
+            "response": "The current president of Pamantasan ng Lungsod ng Maynila is,\nEmmanuel A. Leyco, MPA is the former officer-in-charge of the \nDepartment of Social Welfare and Development (DSWD). \nHe was also the former DSWD Undersecretary for Finance \nand Administration.\n\nAside from serving under the national government's Social \nWelfare agency, former Usec. Leyco also worked as a \nProfessor at the Asian Institute of Management. He has a \nMaster's in Public Administration at Harvard Kennedy School of \nGovernment, a Master of Arts in Organizational Psychology \nat Columbia University, and a Bachelor of Arts in Behavioral \nSciences at De La Salle University."
+        },
+        {
+            "tag": "hymn_plm",
+            "response": "This is the official hymn of the Pamantasan ng Lungsod ng Maynila:\n\nPamantasan, Pamantasang Mahal\nNagpupugay kami't nag-aalay\nNg Pag-ibig, taos na paggalang\nSa patnubay ng aming isipan.\n\nKarunungang tungo'y kaunlaran\nHinuhubog kaming kabataan\nMaging Pilipinong mero'ng dangal\nPuso'y tigib ng kadakilaan.\n\nPamantasang Lungsod ng Maynila\nKaming lahat dito'y iyong punla\nTutuparin pangarap mo't nasa\nPamantasan kami'y nanunumpa.\nPamantasan kami'y nanunumpa."
+        },
+        {
+            "tag": "courses_offered",
+            "response": "PLM offers a variety of undergraduate and graduate programs, including courses in Business Administration, Education, Engineering, Law, Medicine, Nursing, Social Sciences, and more."
+        },
+        {
+            "tag": "public_or_private",
+            "response": "PLM is a public university owned and operated by the City Government of Manila."
+        },
+        {
+            "tag": "admission_process",
+            "response": "To be admitted to PLM, you must meet the university's admission requirements, which include passing the PLMAT (Pamantasan ng Lungsod ng Maynila Admission Test) and submitting all necessary documents."
+        },
+        {
+            "tag": "tuition_fee",
+            "response": "The tuition fee at PLM varies depending on the program and the student's residency status (Manila residents receive a lower rate). For the academic year 2021-2022, the tuition fee for undergraduate programs ranged from around Php 12,000 to Php 35,000 per semester."
+        },
+        {
+            "tag": "history",
+            "response": "PLM was established in 1965 as a college under the administration of the City of Manila. It became a university in 2001 and is now considered one of the leading universities in the Philippines."
+        },
+        {
+            "tag": "location",
+            "response": "PLM's main campus is located in General Luna, corner Muralla St, Intramuros, Manila, 1002 Metro Manila."
+        },
+        {
+            "tag": "student_orgs",
+            "response": "I currently don't have a list of all student organizations in PLM as I still have no data about it. Kindly give a feedback to improve my knowledge base!"
+        },
+        {
             "tag": "what_osds",
             "response": "The Office of Student Development and Services (OSDS) is the central student services agency, which administers and coordinates student services and represents student interests to various campus groups, the faculty, the staff, and the administration. It assumes administrative responsibility over all student organizations, student cocurricular, extra-curricular and cultural activities in the University, and facilitates and follows through student needs, growth, and development in the context of the students\u2019 social, cultural, intellectual and moral spheres. "
         },
@@ -65,61 +301,61 @@
             "response": "On July 7, 2004, the Graduate School of Law (GSL) was formally launched as the second graduate school of school of law in the Philippines.\n\nThe Graduate School of Law aims to (1) develop intellectual expertise in law and jurisprudence among lawyers; (2) assist in improving public service by stressing the lawyers' mission of upholding justice and truth; (3) elevating the standards of the legal profession; and (4) enhancing the administration of justice for the welfare of the Filipino people, especially the marginalized."
         },
         {
-            "tag": "list_student_affair_services",
-            "response": "The following are the list of the Student Affair and Services in PLM:\n\n1. Office of Student Development And Service \n2. Scholarship Opportunities \n3. University Registrar \n4. University Library \n5. Office of the Guidance and Testing Services (OGTS)\n6. University Security Office (USO) \n7. University Health Services (UHS) \n8. Other Student Welfare \n9. Student Development and Institutional Student Programs And Services"
+            "tag": "what_orgs",
+            "response": "The university is made up of a variety of organizations that cater to different interests and subject areas.  It consists of academic, non-academic, and religious orgs. For further queries, you can also ask for a more specific organizations from different colleges."
         },
         {
-            "tag": "what_is_mission",
-            "response": "The PLM Board of Regents, Management, faculty, and staff are \ncommitted:\n\n1. To be recognized by the Philippines and ASEAN academic \naccrediting agencies as a premier university for its quality \neducation, research, and extension services;\n2. To ensure that PLM maintains a higher than the national\naverage performance in all professional licensure examinations \ntaken by its graduates; and\n3. To continue to provide the students with an education that \nwill give them a competitive advantage for employment \nopportunities."
+            "tag": "chass_orgs",
+            "response": "As of the Academic Year 2020-2021, the organizations under the College of Humanities, Arts and Social Sciences (CHASS) are Junior Social Workers Association of the Philippines PLM (JSWAP PLM), and Mass Communications Student\u2019s League (MCSL)."
         },
         {
-            "tag": "what_is_vision",
-            "response": "The vision of PLM is:\n\nGuided by the values of academic excellence, integrity and \nsocial responsibility, PLM is committed to pursue the principles \nof \u201cKarunungan, Kaunlaran, Kadakilaan.\u201d\n"
+            "tag": "cet_orgs",
+            "response": "As of the Academic Year 2020-2021, the organizations under the College of Engineering and Technology are Electronics Engineering Student\u2019s Society (ECESS), Chemical Engineering Student\u2019s Society (CHESS), Association of Civil Engineering Students (ACES), Computer Science Society (CSS), Institute of Computer Engineering of the Philippines Student Edition PLM (ICpEP .se \u2013 PLM), Junior Institute of Electrical Engineers (JIEE), Philippine Society of Mechanical Engineers (PSME), PLM Engineering Mathematical Society (PLM EMS), PLM Society of Information Technology Enthusiasts (PLM SITE), and Society of Manufacturing Engineers (SME)."
         },
         {
-            "tag": "contacts",
-            "response": "Here are the contacts that you may need to have a conversation with PLM:\n\n1. Office of the President - plm_op@plm.edu.ph (02) 8568 7027\n2. Office of the University Registrar - registrar@plm.edu.ph 0916 341 0311\n3. Admissions Office - admission_office@plm.edu.ph 0916 341 0332\n4. Information and Communications Technology Office - ithelp@plm.edu.ph\n5. Office of Students and Development Services - osds@plm.edu.ph\n6. University Health Services - uhs@plm.edu.ph\n"
+            "tag": "caup_orgs",
+            "response": "As of the Academic Year 2020-2021, the organization under the College of Architecture and Urban Planning is United Architects of the Philippines Student Auxiliary (UAPSA)"
         },
         {
-            "tag": "president_of_plm",
-            "response": "The current president of Pamantasan ng Lungsod ng Maynila is,\nEmmanuel A. Leyco, MPA is the former officer-in-charge of the \nDepartment of Social Welfare and Development (DSWD). \nHe was also the former DSWD Undersecretary for Finance \nand Administration.\n\nAside from serving under the national government's Social \nWelfare agency, former Usec. Leyco also worked as a \nProfessor at the Asian Institute of Management. He has a \nMaster's in Public Administration at Harvard Kennedy School of \nGovernment, a Master of Arts in Organizational Psychology \nat Columbia University, and a Bachelor of Arts in Behavioral \nSciences at De La Salle University."
+            "tag": "cm_orgs",
+            "response": "As of the Academic Year 2020-2021, the organization under the College of Medicine are Brotherhood of Medical Scholars (BMS), Lingap Para Sa Kalusugan ng Sambayanan (LIKAS), Medical Alliance Rendering Service to Fellowmen (MARSF), Medical Union for Service (MUS), Philippine Medical Student\u2019s Association (PMSA), and PhiloMedicaScientia (PMS)."
         },
         {
-            "tag": "hymn_plm",
-            "response": "This is the official hymn of the Pamantasan ng Lungsod ng Maynila:\n\nPamantasan, Pamantasang Mahal\nNagpupugay kami't nag-aalay\nNg Pag-ibig, taos na paggalang\nSa patnubay ng aming isipan.\n\nKarunungang tungo'y kaunlaran\nHinuhubog kaming kabataan\nMaging Pilipinong mero'ng dangal\nPuso'y tigib ng kadakilaan.\n\nPamantasang Lungsod ng Maynila\nKaming lahat dito'y iyong punla\nTutuparin pangarap mo't nasa\nPamantasan kami'y nanunumpa.\nPamantasan kami'y nanunumpa."
+            "tag": "cs_orgs",
+            "response": "As of the Academic Year 2020-2021, the organization under the College of Science are PLM Mathematical Society (PLM MathSoc), PLM Society for Biological Sciences (PLM SBS), Psychological Society (PSYSOC), and The Chemical Society (TCS)."
         },
         {
-            "tag": "who_are_you",
-            "response": "Hi, haribon! I am ChatPLM, a simple AI trained to answer your PLM-related questions. \n\nI am developed by a group of passionate Computer Science students from PLM and maintained by a lot of student volunteers.\n\nAsk me anything about PLM and I'll try my best to answer it!"
+            "tag": "plmbs_orgs",
+            "response": "As of the Academic Year 2020-2021, the organization under the PLM Business School are Junior Entrepreneur\u2019s Society (JES), Junior Financial Executives (JFINEX), Junior Marketing Association (JMA), Junior People Management Association of the Philippines (JPMAP), Junior Philippine Institute of Accountants (JPIA), PLM Junior Chamber of Relators (PLM JCOR), PLM Young Economists\u2019 Society (PLM YES), and Tourism and Hospitality Student\u2019s Association (TAHSA)."
         },
         {
-            "tag": "courses_offered",
-            "response": "PLM offers a variety of undergraduate and graduate programs, including courses in Business Administration, Education, Engineering, Law, Medicine, Nursing, Social Sciences, and more."
+            "tag": "univ_orgs",
+            "response": "As of the Academic Year 2020-2021, the organization that are also present in the university are Achievers in Mission (AIM), Bukluran Students\u2019 Alliance \u2013 Integrated Student\u2019s Organization (BSA-ISO), Christian Brotherhood International (CBI), Community Research Development Society (COMDRS), LightBearer Society (LS), Magwayen Creative Scholar\u2019s Guild (MCSG), Movements Expert\u2019s Society (MES), PLM Dance Iskolar Incorporated, PLM Department of Science and Technology Scholars Association (DOST SA), PLM Propaganda \u2013 PLM PPG, PLM Red Cruz Youth Council (PLM RCYC), PLM Speech and Debate Society (PLM SPADES), Public Relations Auxiliary Brigade (PRAB), Rotaract Club PLM (RC PLM), and Tugon Responding Students for Community Undertaking and Edification (TUGON RESCUE)."
         },
         {
-            "tag": "public_or_private",
-            "response": "PLM is a public university owned and operated by the City Government of Manila."
+            "tag": "acad_orgs",
+            "response": "As of the Academic Year 2020-2021, the academic-related organizations are Junior Social Workers Association of the Philippines PLM (JSWAP PLM), Mass Communications Student's League (MCSL), Electronics Engineering Student's Society (ECESS), Chemical Engineering Student's Society (CHESS), Association of Civil Engineering Students (ACES), Computer Science Society (CSS), Institute of Computer Engineering of the Philippines Student Edition PLM (ICpEP .se \u2013 PLM), Junior Institute of Electrical Engineers (JIEE), Philippine Society of Mechanical Engineers (PSME), PLM Engineering Mathematical Society (PLM EMS), PLM Society of Information Technology Enthusiasts (PLM SITE), Society of Manufacturing Engineers (SME), United Architects of the Philippines Student Auxiliary (UAPSA), Brotherhood of Medical Scholars (BMS), Lingap Para Sa Kalusugan ng Sambayanan (LIKAS), Medical Alliance Rendering Service to Fellowmen (MARSF), Medical Union for Service (MUS), Philippine Medical Student's Association (PMSA), PhiloMedicaScientia (PMS), and PLM Mathematical Society (PLM MathSoc)."
         },
         {
-            "tag": "admission_process",
-            "response": "To be admitted to PLM, you must meet the university's admission requirements, which include passing the PLMAT (Pamantasan ng Lungsod ng Maynila Admission Test) and submitting all necessary documents."
+            "tag": "relig_org",
+            "response": "As of the Academic Year 2020-2021, the religious-related organization is Christian Brotherhood International (CBI)."
         },
         {
-            "tag": "tuition_fee",
-            "response": "The tuition fee at PLM varies depending on the program and the student's residency status (Manila residents receive a lower rate). For the academic year 2021-2022, the tuition fee for undergraduate programs ranged from around Php 12,000 to Php 35,000 per semester."
+            "tag": "non-acads",
+            "response": "As of the Academic Year 2020-2021, the non-academic organizations in PLM are Bukluran Students\u2019 Alliance \u2013 Integrated Student\u2019s Organization (BSA-ISO), LightBearer Society (LS), Magwayen Creative Scholar\u2019s Guild (MCSG), Movements Expert\u2019s Society (MES), PLM Dance Iskolar Incorporated, PLM Department of Science and Technology Scholars Association (DOST SA), PLM Propaganda \u2013 PLM PPG, PLM Red Cruz Youth Council (PLM RCYC), PLM Speech and Debate Society (PLM SPADES), Public Relations Auxiliary Brigade (PRAB), Rotaract Club PLM (RC PLM), and Tugon Responding Students for Community Undertaking and Edification (TUGON RESCUE)."
         },
         {
-            "tag": "history",
-            "response": "PLM was established in 1965 as a college under the administration of the City of Manila. It became a university in 2001 and is now considered one of the leading universities in the Philippines."
+            "tag": "comsci_orgs",
+            "response": "At PLM, there are two organizations under its Computer Science department: the Computer Science Society (CSS) and Google Developer Student Clubs (GDSC)."
         },
         {
-            "tag": "location",
-            "response": "PLM's main campus is located in General Luna, corner Muralla St, Intramuros, Manila, 1002 Metro Manila."
+            "tag": "comsci_gdsc",
+            "response": "Google Developer Student Clubs PLM is a duly constituted organization of Pamantasan ng Lungsod ng Maynila that aims to build great solutions, transform communities, and connect Haribons with diverse backgrounds and different majors through technology. "
         },
         {
-            "tag": "student_orgs",
-            "response": "I currently don't have a list of all student organizations in PLM as I still have no data about it. Kindly give a feedback to improve my knowledge base!"
+            "tag": "comsci_css",
+            "response": "The PLM Computer Science Society (CSS) is PLM's main computer science organization currently led by Lambert T. Dela Cruz with advisory from Prof. Mark Christopher R. Blanco "
         }
     ],
-    "date": "May 17, 2023 04:32 PM"
+    "date": "May 19, 2023 07:55 AM"
 }

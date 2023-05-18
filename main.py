@@ -23,7 +23,7 @@ def read_root():
     return {"msg": "This is ChatPLM API, go to /docs for more info."}
 
 
-@app.get("/chat/")
+@app.get("/chat")
 def chat(prompt: str, api_key: str = Header(None)):
     authorize(api_key)
     response, confidence = model.response_from_model(prompt)
